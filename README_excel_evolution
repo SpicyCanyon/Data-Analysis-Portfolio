@@ -1,3 +1,12 @@
 Evolution of data collection
 
-When I began at Westward Summit, the owner of the business collected the most rudimentary of data. 
+When I began at Westward Summit, the owner of the business was the one collecting the data. As you can see, there was much left to be desired in terms
+of what should have been collected up to that point. While
+![this](https://github.com/SpicyCanyon/Data-Analysis-Portfolio/blob/assets/humble_origins.png) was what he thought he needed to know, there was much to be desired 
+from what I was looking for.
+
+Then, after a few short months, I found that I could use the few numbers that we had, and I could start to find a pattern. To me, I needed to know how to predict approximately what kinds of yields to expect--and I found my first projection--the mean yield was generally approximately 16%. !(https://github.com/SpicyCanyon/Data-Analysis-Portfolio/blob/assets/data_growing_1.png)
+
+And so I started figuring out that each room had its own distinct behaviors. Although my formulas weren't the most robust, it started to show me that there might be more than meets the eye. !(https://github.com/SpicyCanyon/Data-Analysis-Portfolio/blob/assets/data_growing_2_room_averages.png)
+
+Which brings us to the now. This is the workbook as I use it every day, and have added condiditional formatting to highlight the important metrics. I still rely on the projection, which now uses a VLOOKUP to find the average per strain of the Top Shelf Yield, which is the total top shelf weight/total weight weight. Generally this comes out to about 10% overall, but this can actually range anywhere from 8-12% depending on the strain.
