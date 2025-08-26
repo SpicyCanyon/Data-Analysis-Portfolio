@@ -1,3 +1,5 @@
+Note: 8.26.25 five new items were added to the "assets" branch. Refer to them for a reference on analyses presented in Power BI.
+
 Westward Summit Complete Data Analysis
 
 Contained within this repository will be (note the "will be", as this is still a work in progress) the complete findings of all the data collected, cleaned, transformed, and finally presented in a digestible way for anyone to be able to understand. These findings will include the humble beginnings of the barebones data, collected by the owner of the company. Once I took the data collection upon myself, I expanded the aspects that could be found slowly at first, until I created a scoring system that graded each harvested strain with a score out of 100. This included being scored on THC content, pounds harvested per plant, the percent yield of top shelf product, and how low the percent of shake/trim was. 
